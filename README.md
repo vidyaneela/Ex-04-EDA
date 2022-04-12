@@ -1,4 +1,4 @@
-### Ex-04-EDA
+# Ex-04-EDA
 ## AIM
 To perform EDA on the given data set.
 
