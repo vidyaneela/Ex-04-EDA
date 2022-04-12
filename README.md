@@ -85,5 +85,5 @@ OUPUT:
 ![16](https://user-images.githubusercontent.com/94169318/162870722-2972ae42-574e-4dd3-ab9f-d1bd03ef3c9a.png)
 ![17](https://user-images.githubusercontent.com/94169318/162870742-f8f123e7-0c21-4b31-a726-2c8acbe77ef1.png)
 
-RESULT
+## RESULT
 The data has been cleaned, outlier has been removed and the EDA on the given data has been performed.
